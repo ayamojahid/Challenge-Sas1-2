@@ -1,0 +1,33 @@
+GIT : Git est un outil de contrôle de version qui est rapidement
+ devenu incontournable dans l'écosystème du développement logiciel.
+  Grâce à sa capacité à conserver un historique minutieux des modifications
+ apportées sur un projet, Git représente un allié précieux pour tout développeur
+soucieux de gérer efficacement ses projets. Maîtriser Git est, de ce fait, 
+ maintenant une compétence essentielle à connaître pour quiconque souhaite exceller 
+ dans le domaine du développement logiciel.
+
+historique et gestion des versions de ton projet.
+
+Les commandes :
+git init : initialiser un nouveau dépôt Git.
+git clone [url] : cloner un dépôt existant.
+git add [fichier] : ajouter un fichier à l'index.
+git commit : valider les modifications apportées.
+git commit -m "message" : valider les changements avec un message.
+git status : afficher l'état des fichiers dans le répertoire de travail.
+git push : envoyer les modifications vers le dépôt distant.
+git pull : récupérer les modifications du dépôt distant et les fusionner avec le dépôt local.
+
+
+GITHUB: est un site internet qui permet de mettre tes projets Git en ligne et de travailler 
+avec d'autres personnes.
+
+👉 Git = l'outil sur ton ordinateur
+👉 GitHub = la plateforme en ligne
+
+Une analogie simple :
+
+Git = sauvegarder plusieurs versions d'un document sur ton ordinateur.
+GitHub = mettre ce document sur Internet pour le sauvegarder et le partager.
+
+JAVASCRIPT : 
