@@ -1,3 +1,3 @@
 Git :sauvegarde lhistorique et gestion du projet souvent des commandes de git
- GITHUB: est un site internet qui permet de mettre tes projets Git en ligne et de travailler 
+ GITHUB: est un site internet qui permet de mettre les projets Git en ligne et de travailler 
 avec d'autres personnes. 
